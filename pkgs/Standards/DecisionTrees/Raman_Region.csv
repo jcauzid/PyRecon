@@ -1,0 +1,17 @@
+,Group,Subgroup,Mineral,Raman_Region_1_Min,Raman_Region_1_Max,Raman_Region_2_Min,Raman_Region_2_Max,Raman_Region_3_Min,Raman_Region_3_Max
+0,Silicate,Tectosilicate,Anorthite,504.0,508.0,480.0,484.0,,
+1,Silicate,Tectosilicate,Albite,505.0,509.0,476.0,480.0,,
+2,Silicate,Tectosilicate,Orthoclase,510.0,514.0,472.0,475.0,,
+3,Silicate,Tectosilicate,Quartz,463.0,467.0,352.0,358.0,392.0,400.0
+4,Silicate,Phyllosilicate,Muscovite,700.0,704.0,404.0,413.0,,
+5,Silicate,Phyllosilicate,chlorite,546.0,552.0,655.0,685.0,,
+6,Carbonate,Carbonate,Carbonate,1085.0,1100.0,712.0,742.0,155.0,215.0
+7,Graphite,Graphite,Graphite,1580.0,1600.0,,,,
+8,Sulfate,Barite,Barite,986.0,990.0,456.0,462.0,,
+9,Sulfate,Gypsum,Gypsum,1006.0,1008.0,490.0,494.0,412.0,415.0
+10,Sulfide,Pyrite,Pyrite,340.0,345.0,375.0,380.0,,
+11,Sulfide,Sphalerite,Sphalerite,346.0,350.0,416.0,420.0,666.0,672.0
+12,Sulfide,Chalcopyrite,Chalcopyrite,415.0,418.0,,,,
+13,Sulfide,Chalcopyrite,Chalcopyrite,289.0,292.0,350.0,354.0,317.0,321.0
+14,Sulfide,Pyrrhotite,Pyrrhotite,415.0,418.0,378.0,386.0,,
+15,Sulfide,Pyrrhotite,Pyrrhotite,373.0,375.0,338.0,340.0,422.0,426.0

@@ -1,0 +1,11 @@
+,Group,Subgroup,Mineral,IR_Region_1_Min,IR_Region_1_Max,IR_Region_2_Min,IR_Region_2_Max,IR_Region_3_Min,IR_Region_3_Max,IR_Region_4_Min,IR_Region_4_Max,IR_Region_5_Min,IR_Region_5_Max
+0,Silicate,Tectosilicate,Anorthite,535.0,545.0,940.0,950.0,630.0,640.0,990.0,1100.0,,
+1,Silicate,Tectosilicate,Albite,1000.0,1010.0,1030.0,1040.0,595.0,605.0,530.0,540.0,,
+2,Silicate,Tectosilicate,Orthoclase,1110.0,1120.0,1235.0,1245.0,595.0,605.0,530.0,540.0,,
+3,Silicate,Tectosilicate,Quartz,1095.0,1115.0,1205.0,1215.0,535.0,550.0,775.0,785.0,795.0,805.0
+4,Silicate,Phyllosilicate,Muscovite,1035.0,1050.0,540.0,555.0,1095.0,1110.0,740.0,755.0,790.0,800.0
+5,Silicate,Phyllosilicate,Chlorite,1015.0,1025.0,550.0,560.0,645.0,660.0,745.0,760.0,,
+6,Carbonate,Carbonate,Carbonate,1525.0,1570.0,1410.0,1445.0,875.0,900.0,,,,
+7,Graphite,Graphite,Graphite,990.0,1015.0,1075.0,1095.0,,,,,,
+8,Sulfate,Barite,Barite,605.0,615.0,1085.0,1115.0,1105.0,1125.0,630.0,645.0,1205.0,1225.0
+9,Sulfate,Gypsum,Gypsum,1140.0,1160.0,665.0,680.0,595.0,615.0,1615.0,1625.0,,
